@@ -1,6 +1,6 @@
 {
   "name": "@jefferal/selenium-webdriver-wa",
-  "version": "2.53.4",
+  "version": "2.53.5",
   "description": "The official WebDriver JavaScript bindings from the Selenium project",
   "license": "Apache-2.0",
   "keywords": [
@@ -27,7 +27,7 @@
     "rimraf": "^2.2.8",
     "tmp": "0.0.24",
     "ws": "^1.0.1",
-    "@jefferal/selenium-webdriver-wa": "0.4.4"
+    "@jefferal/xml2js-wa": "0.4.4"
   },
   "devDependencies": {
     "express": "^4.11.2",
