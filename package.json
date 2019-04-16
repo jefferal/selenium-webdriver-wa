@@ -1,6 +1,6 @@
 {
   "name": "selenium-webdriver-wa",
-  "version": "2.53.7",
+  "version": "2.53.8",
   "description": "The official WebDriver JavaScript bindings from the Selenium project",
   "license": "Apache-2.0",
   "keywords": [
@@ -10,14 +10,14 @@
     "webdriver",
     "webdriverjs"
   ],
-  "homepage": "https://github.com/jefferal/selenium-webdriver",
+  "homepage": "https://github.com/jefferal/selenium-webdriver-wa",
   "bugs": {
-    "url": "https://github.com/jefferal/selenium-webdriver/issues"
+    "url": "https://github.com/jefferal/selenium-webdriver-wa/issues"
   },
   "main": "./index",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jefferal/selenium-webdriver.git"
+    "url": "git+https://github.com/jefferal/selenium-webdriver-wa.git"
   },
   "engines": {
     "node": ">= 4.2.x"
