@@ -22,7 +22,7 @@
 const AdmZip = require('adm-zip'),
     fs = require('fs'),
     path = require('path'),
-    xml = require('xml2js');
+    xml = require('xml2js-wa');
 
 const promise = require('../lib/promise'),
     checkedCall = promise.checkedNodeCall,

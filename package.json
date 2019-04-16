@@ -1,6 +1,6 @@
 {
-  "name": "@jefferal/selenium-webdriver-wa",
-  "version": "2.53.5",
+  "name": "selenium-webdriver-wa",
+  "version": "2.53.7",
   "description": "The official WebDriver JavaScript bindings from the Selenium project",
   "license": "Apache-2.0",
   "keywords": [
@@ -10,14 +10,14 @@
     "webdriver",
     "webdriverjs"
   ],
-  "homepage": "https://github.com/SeleniumHQ/selenium",
+  "homepage": "https://github.com/jefferal/selenium-webdriver",
   "bugs": {
-    "url": "https://github.com/SeleniumHQ/selenium/issues"
+    "url": "https://github.com/jefferal/selenium-webdriver/issues"
   },
   "main": "./index",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SeleniumHQ/selenium.git"
+    "url": "git+https://github.com/jefferal/selenium-webdriver.git"
   },
   "engines": {
     "node": ">= 4.2.x"
@@ -27,7 +27,7 @@
     "rimraf": "^2.2.8",
     "tmp": "0.0.24",
     "ws": "^1.0.1",
-    "@jefferal/xml2js-wa": "0.4.4"
+    "xml2js-wa": "0.4.5"
   },
   "devDependencies": {
     "express": "^4.11.2",
@@ -64,5 +64,5 @@
     "example": "example",
     "test": "test"
   },
-  "author": "Jefferson Alvarez"
+  "author": "jmleyba <jmleyba@gmail.com>"
 }
